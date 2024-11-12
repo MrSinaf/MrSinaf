@@ -6,7 +6,7 @@
 
 ## 🐍〉Salutations
 
-Je suis **Mickaël Dancoisne**, développeur pasionné web et application C# .NET !\
+Je suis **Mickaël Dancoisne**, développeur passionné web et application C# .NET !\
 Je travaille principalement dans le domaine du jeu vidéo et dernièrement avec la bibliothèque de bas niveau : [Silk.NET](https://github.com/dotnet/Silk.NET).
 
 
@@ -17,7 +17,7 @@ Je travaille principalement dans le domaine du jeu vidéo et dernièrement avec 
 | Aseprite | Logiciel de dessin en pixel art. |
 | ☕️ | Tiens, je vais m'en faire un ! |
 
->  Le plus important, c'est d'être fière de ce que l'on fait et pas de ce que les autres pensent.
+>  Un projet réussi est un projet où vous en êtes fière, c'est tout ce qu'il suffit pour avoir réussi !
 
 ## 🚀〉Projets en cours
 
