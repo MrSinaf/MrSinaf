@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MrSinaf/MrSinaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![MrSinaf écrit en pixel art](https://sinafproduction.xyz/images/mrsinaf.gif?v=1)
+  
+</div>
 
-Here are some ideas to get you started:
+## 🐍〉Salutations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je suis **Mickaël Dancoisne**, développeur passionné web et application `C# .NET`, ainsi que `Rust` !\
+J'aime principalement travailler dans le domaine du jeu vidéo et avec des technologies modernes.
+
+| Outils | Descriptions |
+|---|---|
+| **Jetbrains** | IDE performants. |
+| **Aseprite** | Logiciel de dessin en pixel art. |
+| **Blender** | Logiciel de création 3D. |
+| **Illustrator/Photoshop** | Logiciels d'illustrations. |
+| ☕️ | Tiens, je vais m'en faire un ! |
+
+> ヽ(✿ﾟ▽ﾟ)ノ
+
+## 🔌〉Mes resources
+🌐〉[Mon site web](https://sinafproduction.xyz/)\
+🎟️〉[Mon discord](https://discord.gg/g6VCAuSMAq)\
+🎮〉[Mon profil steam](https://steamcommunity.com/id/mrsinaf/)
