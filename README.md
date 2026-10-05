@@ -26,3 +26,6 @@ I mainly enjoy working in the fields of low-level video game development and app
 🐱〉[Discord (only-french)](https://discord.gg/AzGJ2DavM3)\
 👀〉[Reddit](https://www.reddit.com/user/MrSinaf/)\
 🎮〉[Steam](https://steamcommunity.com/id/mrsinaf/)
+
+
+*No AI used in my projects.*
