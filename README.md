@@ -23,7 +23,7 @@ I mainly enjoy working in the fields of low-level video game development and app
 
 ### More about me (*￣3￣)╭
 🌐〉[Website](https://sinaf.me/)\
-🐱〉[Discord (only-french)](https://discord.gg/AzGJ2DavM3)\
+🎬〉[Youtube](https://www.youtube.com/@mrsinaf)\
 👀〉[Reddit](https://www.reddit.com/user/MrSinaf/)\
 🎮〉[Steam](https://steamcommunity.com/id/mrsinaf/)
 
